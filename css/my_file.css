@@ -1,0 +1,29 @@
+.header {
+    margin-top: 67px;
+    margin-left: 130px;
+    width: 1040px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between; 
+
+}
+.header__logo {
+}
+.header__cartangood {
+}
+.header__car {
+}
+.header__prodykt {
+}
+.offer {
+}
+.ofer__imgcenter {
+}
+.offer__title {
+}
+.offer__background {
+}
+.menu__list {
+}
+.menu__listsistem {
+}
